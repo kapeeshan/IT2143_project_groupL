@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyProjects\\IT2143_project_groupL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\myprojects\\it2143_project_groupl\\windowsformsapp1\\addproblems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\addproblems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\MyProjects\\IT2143_project_groupL\\windowsformsapp1\\addproblems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\addproblems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\MyProjects\\IT2143_project_groupL\\windowsformsapp1\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\MyProjects\\IT2143_project_groupL\\windowsformsapp1\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\MyProjects\\IT2143_project_groupL\\windowsformsapp1\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\MyProjects\\IT2143_project_groupL\\windowsformsapp1\\quizform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\quizform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\MyProjects\\IT2143_project_groupL\\windowsformsapp1\\quizform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\quizform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\MyProjects\\IT2143_project_groupL\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\MyProjects\\IT2143_project_groupL\\windowsformsapp1\\quizform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\quizform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\MyProjects\\IT2143_project_groupL\\windowsformsapp1\\studentpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\studentpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\MyProjects\\IT2143_project_groupL\\windowsformsapp1\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\MyProjects\\IT2143_project_groupL\\windowsformsapp1\\studentpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\studentpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\MyProjects\\IT2143_project_groupL\\windowsformsapp1\\problems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\problems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\MyProjects\\IT2143_project_groupL\\windowsformsapp1\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\MyProjects\\IT2143_project_groupL\\windowsformsapp1\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5256EBD-5525-4C90-AB15-BFEA26B18965}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddProblems.cs",
+              "DocumentMoniker": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\AddProblems.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AddProblems.cs",
+              "ToolTip": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\AddProblems.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\AddProblems.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T10:02:48.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddProblems.cs [Design]",
+              "DocumentMoniker": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\AddProblems.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AddProblems.cs",
+              "ToolTip": "F:\\UOV\\Thisuri\\project\\project\\WindowsFormsApp1\\WindowsFormsApp1\\AddProblems.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T09:59:59.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "signIn.cs",
+              "DocumentMoniker": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\signIn.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\signIn.cs",
+              "ToolTip": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\signIn.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\signIn.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAD4v2oAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T09:50:57.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "adminPanel.cs",
+              "DocumentMoniker": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\adminPanel.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\adminPanel.cs",
+              "ToolTip": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\adminPanel.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\adminPanel.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAWwKcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T09:50:40.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuizForm.Designer.cs",
+              "DocumentMoniker": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\QuizForm.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\QuizForm.Designer.cs",
+              "ToolTip": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\QuizForm.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\QuizForm.Designer.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAkwL0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T09:26:42.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T09:05:44.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Problems.cs",
+              "DocumentMoniker": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\Problems.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Problems.cs",
+              "ToolTip": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\Problems.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Problems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T08:58:55.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuizForm.cs",
+              "DocumentMoniker": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\QuizForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\QuizForm.cs",
+              "ToolTip": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\QuizForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\QuizForm.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAewJsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T08:48:57.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuizForm.cs [Design]",
+              "DocumentMoniker": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\QuizForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\QuizForm.cs",
+              "ToolTip": "F:\\UOV\\Thisuri\\project\\project\\WindowsFormsApp1\\WindowsFormsApp1\\QuizForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T08:41:06.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\Connection.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Connection.cs",
+              "ToolTip": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\Connection.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T04:09:25.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "studentPanel.cs",
+              "DocumentMoniker": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\studentPanel.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\studentPanel.cs",
+              "ToolTip": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\studentPanel.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\studentPanel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAlwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T04:05:59.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "signUp.cs",
+              "DocumentMoniker": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\signUp.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\signUp.cs",
+              "ToolTip": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\signUp.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\signUp.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAjwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T03:54:01.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "adminPanel.cs [Design]",
+              "DocumentMoniker": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\adminPanel.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\adminPanel.cs",
+              "ToolTip": "F:\\UOV\\Thisuri\\project\\project\\WindowsFormsApp1\\WindowsFormsApp1\\adminPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T05:05:56.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "studentPanel.cs [Design]",
+              "DocumentMoniker": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\studentPanel.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\studentPanel.cs",
+              "ToolTip": "F:\\UOV\\Thisuri\\project\\project\\WindowsFormsApp1\\WindowsFormsApp1\\studentPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T05:05:47.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "signIn.cs [Design]",
+              "DocumentMoniker": "D:\\MyProjects\\IT2143_project_groupL\\WindowsFormsApp1\\signIn.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\signIn.cs",
+              "ToolTip": "F:\\UOV\\Thisuri\\project\\project\\WindowsFormsApp1\\WindowsFormsApp1\\signIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T05:05:35.817Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
